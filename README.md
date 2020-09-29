@@ -28,9 +28,11 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/ubuntu.png" />
 </p>
 <br><br>
+
 **Find me on :**
 * [*Visit my Website*](https://farrasrayhand.github.io/)
 <br><br>
+
 #### ∞ contributions in the last year
 
 | <img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/contrib.gif" alt="Contributions" width="722px" height="112px" /> |
