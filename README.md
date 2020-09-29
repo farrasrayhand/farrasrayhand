@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/github.gif" alt="Farras Rayhand" width="150" height="150" />
+<div style="pointer-events: none;"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/github.gif" alt="Farras Rayhand" width="150" height="150" /></div>
 </div>
 
 <div align="center">
