@@ -15,7 +15,7 @@
 - 🛏️ I spend the weekend in the bed.
 - 🍔Eat ~ 😴Sleep ~ 📱Scroll ~ 🔁Repreat
 <p align="center"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/noprod.gif" /></p>
-
+<hr>
 **Languages and Tools:**
 <p align="left">
 <img align="left" alt="Apache" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/apache.png" />
