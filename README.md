@@ -2,11 +2,11 @@
 <br>
 
 <div align="center">
-<div style="pointer-events: none;"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/github.gif" alt="Farras Rayhand" width="150" height="150" /></div>
+<img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/github.gif" alt="Farras Rayhand" width="150" height="150" />
 </div>
 
 <div align="center">
-<div style="pointer-events: none;"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/hi.gif" alt="Farras Rayhand" /></div>
+<img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/hi.gif" alt="Farras Rayhand" />
 </div>
 <br><br><br>
 
