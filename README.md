@@ -1,4 +1,4 @@
-## Welcome to My Profile <a href="#"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/wave.gif" width="30px">
+## Welcome to My Profile <img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/wave.gif" width="30px">
 <br>
 
 <div align="center">
@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<div style="cursor: default; pointer-event: none;"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/hi.gif" alt="Farras Rayhand" /></div>
+<div style="cursor: default; pointer-events: none;"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/hi.gif" alt="Farras Rayhand" /></div>
 </div>
 <br><br><br>
 
@@ -14,7 +14,7 @@
 - 🍞 I like Bread 🤤
 - 🛏️ I spend the weekend in the bed.
 - 🍔Eat ~ 😴Sleep ~ 📱Scroll ~ 🔁Repreat
-<p align="center"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/noprod.gif" /></p></a>
+<p align="center"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/noprod.gif" /></p>
 
 **Languages and Tools:**
 <p align="left">
