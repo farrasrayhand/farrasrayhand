@@ -1,7 +1,9 @@
+<head>
 <style>
 body {
       pointer-events: none
 }
+</head>
       
 ## Welcome to My Profile <img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/wave.gif" width="30px">
 <br>
