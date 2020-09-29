@@ -27,7 +27,7 @@
 <img align="left" alt="Debian" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/debian.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/ubuntu.png" />
 </p>
-<br><br>
+<br><br><hr>
 
 **Find me on :**
 * [*Visit my Website*](https://farrasrayhand.github.io/)
