@@ -30,7 +30,7 @@
 <br>
 </br>
 
-**Find me on :**
+<br>**Find me on :**
 * [*Visit my Website*](https://farrasrayhand.github.io/)
 <br><br>
 
