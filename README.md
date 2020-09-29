@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<div style="cursor: default; pointer-events: none;"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/hi.gif" alt="Farras Rayhand" /></div>
+<div style="pointer-events: none;"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/hi.gif" alt="Farras Rayhand" /></div>
 </div>
 <br><br><br>
 
