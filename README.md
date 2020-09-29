@@ -38,3 +38,6 @@
 
 | <img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/contrib.gif" alt="Contributions" width="722px" height="112px" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
+
+document.getElementById("x").style.pointerEvents = "none";
+
