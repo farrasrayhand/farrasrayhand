@@ -15,7 +15,7 @@
 - 🛏️ I spend the weekend in the bed.
 - 🍔Eat ~ 😴Sleep ~ 📱Scroll ~ 🔁Repreat
 <p align="center"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/noprod.gif" /></p>
-<hr>
+
 **Languages and Tools:**
 <p align="left">
 <img align="left" alt="Apache" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/apache.png" />
@@ -27,7 +27,8 @@
 <img align="left" alt="Debian" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/debian.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/ubuntu.png" />
 </p>
-<br><br><hr>
+<br>
+</br>
 
 **Find me on :**
 * [*Visit my Website*](https://farrasrayhand.github.io/)
