@@ -40,6 +40,8 @@ Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](http
 - Outsourcing PT. Telekomunikasi Indonesia Tbk sebagai Teknisi PT1 Februari 2020 - April 2020. [Dokumentasi](https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/former/formertelkom.jpg)
 - Outsourcing PT. Indonesia Comnets Plus sebagai Service Point Mei 2020 - September 2020. [Dokumentasi](https://farrasrayhand.github.io/farrasrayhand/asset/images/former/icon/)
 
+<br>
+
 **Languages and Tools :**
 <p align="left">
 <img align="left" alt="Apache" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/apache.png" />
