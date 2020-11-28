@@ -16,7 +16,7 @@
 - 🍔Eat ~ 😴Sleep ~ 📱Scroll ~ 🔁Repreat
 <p align="center"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/noprod.gif" /></p>
 
-**Skills**
+**Skills : **
 - Mengonlinekan Local Server dengan IP Public atau VPN Port Forward<br>
 Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](https://farrasrayhand.github.io/project/smkn7cloud/).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Membangun, Mengkonfigurasi dan Mengonlinekan [Server Lokal Nextcloud](https://farrasrayhand.github.io/project/lmssmk7/).<br>
