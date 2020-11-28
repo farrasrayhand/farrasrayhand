@@ -10,13 +10,13 @@
 </div>
 <br><br><br>
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuffs :**
 - 🍞 I like Bread 🤤
 - 🛏️ I spend the weekend in the bed.
 - 🍔Eat ~ 😴Sleep ~ 📱Scroll ~ 🔁Repreat
 <p align="center"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/noprod.gif" /></p>
 
-**Skills : **
+**Skills :**
 - Mengonlinekan Local Server dengan IP Public atau VPN Port Forward<br>
 Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](https://farrasrayhand.github.io/project/smkn7cloud/).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Membangun, Mengkonfigurasi dan Mengonlinekan [Server Lokal Nextcloud](https://farrasrayhand.github.io/project/lmssmk7/).<br>
@@ -29,8 +29,14 @@ Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](http
 - Saya bisa Membangun jaringan Lokal VoIP menggunakan Asterisk, ataupun sistem operasi VoIP Seperti Trixbox atau Briker.
 
 - Saya bisa Membangun jaringan VPN PPTP dengan VPS MikroTik.
+<br>
 
-**Languages and Tools:**
+**Achievement :**
+- Juara 2 LKS IT Networking Support Kota Samarinda. [Certificate](https://drive.google.com/file/d/1b7lc3W7g3EH_dF-Ws4SafBM094jk-tYJ/view?usp=sharing)
+
+<br>
+
+**Languages and Tools :**
 <p align="left">
 <img align="left" alt="Apache" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/apache.png" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/mysql.png" />
