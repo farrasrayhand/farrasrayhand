@@ -20,7 +20,7 @@
 - Mengonlinekan Local Server dengan IP Public atau VPN Port Forward<br>
 Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](https://farrasrayhand.github.io/project/lmssmk7/).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Membangun, Mengkonfigurasi dan Mengonlinekan [Server Lokal Nextcloud](https://farrasrayhand.github.io/project/smkn7cloud/).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Memanfaatkan IP Public tempat kerja agar perangkat jaringan bisa dimonitoring dan diremote secara online.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Memanfaatkan IP Public tempat kerja agar perangkat jaringannya bisa dimonitoring dan diremote secara online.<br>
 - Saya bisa mengoperasikan Sistem Operasi Linux berbasis Desktop atau Server terutama untuk Distro Debian dan Ubuntu.
 - Saya bisa mengkonfigurasi DHCP Server, DNS Server, SSH, Web Server Apache dan Nginx(Lebih sering menggunakan Apache), Mail Server Lokal menggunakan Squirrelmail, Postfix dan Courier, FTP Server(Proftpd), Cacti, Samba, Proxy(Squid3), NTP Server, VoIP Server pada Linux Server Ubuntu/Debian(Bisa juga untuk distro lainnya tetapi butuh penyesuaian).
 - Saya bisa Mengkonfigurasi MikroTik(Cisco juga bisa tetapi tidak terlalu menguasai).
