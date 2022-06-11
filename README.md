@@ -31,6 +31,7 @@ Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](http
 **Achievement :**
 - Juara 2 LKS IT Networking Support Kota Samarinda. [Certificate](https://drive.google.com/file/d/1b7lc3W7g3EH_dF-Ws4SafBM094jk-tYJ/view?usp=sharing)
 - MikroTik certificate MTCNA. [Certificate](https://mikrotik.com/training/certificates/b209111cf373fa6f9aaa) 
+- AWS Certified Cloud Practitioner (CLF) [Certificate](https://drive.google.com/file/d/1jDdxNSNLgbxCZwgBf2oUWa4JGwoYIFb3/view?usp=sharing)
 - Dicoding Course Belajar Dasar Pemrograman Web [Certificate](https://www.dicoding.com/certificates/NVP7G3K1VXR0)
 - Dicoding Course Belajar Dasar Visualisasi Data [Certificate](https://www.dicoding.com/certificates/L4PQMJGV4ZO1)
 - Dicoding Course Memulai Pemrograman Dengan Python [Certificate](https://www.dicoding.com/certificates/MEPJ5GVG4P3V)
@@ -39,6 +40,7 @@ Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](http
 - Dicoding Course Cloud Practitioner Essentials [Certificate](https://www.dicoding.com/certificates/81P21OEQ8ZOY)
 - Dicoding Course Architecting on AWS [Certificate](https://www.dicoding.com/certificates/RVZK193NQPD5)
 - Dicoding Course Belajar Membuat Augmented Reality dengan Lens Studio [Certificate](https://www.dicoding.com/certificates/72ZDEM1R6PYW)
+- Credly Profile [Link](https://www.credly.com/users/muhammad-farras-rayhand)
 - Qwiklabs Profile [Link](https://www.qwiklabs.com/public_profiles/2c8b41e2-7db2-438f-8454-a7b3ca6fbd4a)
 <br>
 
