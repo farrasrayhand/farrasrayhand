@@ -67,9 +67,6 @@ Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](http
 </p>
 <br><br>
 
-<br>**Find me on :**<br>
-* [*Visit my Website*](https://farrasrayhand.github.io/)
-<br>
 #### Profile Stats 🎹
 ![farrasrayhand github stats](https://github-readme-stats.vercel.app/api?username=farrasrayhand&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
