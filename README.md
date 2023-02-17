@@ -65,12 +65,9 @@ Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](http
 <img align="left" alt="Debian" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/debian.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/ubuntu.png" />
 </p>
-<br>
-</br>
 
 <br>**Find me on :**
 * [*Visit my Website*](https://farrasrayhand.github.io/)
-<br>
 
 #### Profile Stats 🎹
 ![farrasrayhand github stats](https://github-readme-stats.vercel.app/api?username=farrasrayhand&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
