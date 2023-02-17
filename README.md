@@ -76,7 +76,7 @@ Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](http
 ![farrasrayhand github stats](https://github-readme-stats.vercel.app/api?username=farrasrayhand&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 #### Visitor's count :eyes:
-<p><img src="https://profile-counter.glitch.me/{farrasrayhand}/count.svg" alt="RichoAlbertTio :: Visitor's Count" /></p>
+<p><img src="https://profile-counter.glitch.me/{farrasrayhand}/count.svg" alt="farrasrayhand :: Visitor's Count" /></p>
 
 #### ∞ contributions in the last year
 
