@@ -31,7 +31,7 @@ Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](http
 
 **Achievement :**
 - Juara 2 LKS IT Networking Support Kota Samarinda. [Certificate](https://drive.google.com/file/d/1b7lc3W7g3EH_dF-Ws4SafBM094jk-tYJ/view?usp=sharing)
-- MikroTik Certified Network Associate (MTCNA). [Certificate](https://mikrotik.com/training/certificates/b209111cf373fa6f9aaa) 
+- MikroTik Certified Network Associate (MTCNA). [Certificate](https://mikrotik.com/training/certificates/c209111cf373fa6f9aaa) 
 - MikroTik Certified Routing Engineer (MTCRE). [Certificate](https://mikrotik.com/training/certificates/c244898c6d788204c53a) 
 - Mikrotik Certified Security Engineer (MTCSE). [Certificate](https://mikrotik.com/training/certificates/c244915c62e7f608d9b3) 
 - AWS Certified Cloud Practitioner (CLF) [Certificate](https://drive.google.com/file/d/1jDdxNSNLgbxCZwgBf2oUWa4JGwoYIFb3/view?usp=sharing)
