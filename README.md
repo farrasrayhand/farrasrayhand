@@ -13,7 +13,7 @@
 **Talking about Personal Stuffs :**
 - 🍞 I like Bread 🤤
 - 🛏️ I spend the weekend in the bed.
-- 🍔Eat ~ 😴Sleep ~ 📱Scroll ~ 🔁Repreat
+- 🍔Eat ~ 😴Sleep ~ 📱Scroll ~ 🔁Repeat
 <p align="center"><img src="https://github.com/farrasrayhand/farrasrayhand/blob/master/asset/images/noprod.gif" /></p>
 
 **Skills :**
