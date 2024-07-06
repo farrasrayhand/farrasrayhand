@@ -22,9 +22,9 @@ Project : - Mendeploy dan Mengonlinekan Server Lokal [LMS SMKN 7 SAMARINDA](http
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Membangun, Mengkonfigurasi dan Mengonlinekan [Server Lokal Nextcloud](https://farrasrayhand.github.io/project/smkn7cloud/).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Memanfaatkan IP Public tempat kerja agar perangkat jaringannya bisa dimonitoring dan diremote secara online.<br>
 - Saya bisa mengoperasikan Sistem Operasi Linux berbasis Desktop atau Server terutama untuk Distro Debian dan Ubuntu.
-- Saya bisa membangun Private Cloud Server dengan OpenStack (MicroStack).
+- Saya bisa membangun Private Cloud Server dengan OpenStack (DevStack).
 - Saya bisa mengkonfigurasi DHCP Server, DNS Server, SSH, Web Server Apache dan Nginx(Lebih sering menggunakan Apache), Mail Server Lokal menggunakan Squirrelmail, Postfix dan Courier, FTP Server(Proftpd), Cacti, Samba, Proxy(Squid3), NTP Server, VoIP Server pada Linux Server Ubuntu/Debian(Bisa juga untuk distro lainnya tetapi butuh penyesuaian).
-- Saya bisa Mengkonfigurasi MikroTik(Cisco juga bisa tetapi tidak terlalu menguasai).
+- Saya bisa Mengkonfigurasi MikroTik(Cisco juga bisa).
 - Saya bisa Membangun jaringan Lokal VoIP menggunakan Asterisk, ataupun sistem operasi VoIP Seperti Trixbox atau Briker.
 - Saya bisa Membangun jaringan VPN PPTP dengan VPS MikroTik.
 <br>
